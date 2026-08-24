@@ -27,9 +27,11 @@ Se implementa una clase abstracta base `Pedido` de la cual heredan tres tipos de
 ```text
 📁 src/
 ├── app/          # Contiene la clase principal de ejecución (Main)
-└── model/        # Clases del dominio del problema
-    ├── Pedido.java           # Clase abstracta base
-    ├── PedidoComida.java     # Subclase especializada
-    ├── PedidoEncomienda.java # Subclase especializada
-    └── PedidoExpress.java    # Subclase especializada
+├── model/        # Clases del dominio del problema
+│   ├── Pedido.java           # Clase abstracta base
+│   ├── PedidoComida.java     # Subclase especializada
+│   ├── PedidoEncomienda.java # Subclase especializada
+│   └── PedidoExpress.java    # Subclase especializada
+└── util/         # Clase de utilidad para formateo de consola
+    └── UtilPedido.java       # Métodos auxiliares para la salida de consola
 ```
