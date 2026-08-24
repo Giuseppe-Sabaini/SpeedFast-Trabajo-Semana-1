@@ -1,4 +1,4 @@
-# SpeedFast App - Semana 2: Definiendo una clase abstracta y su jerarquía
+# SpeedFast App - Semana 2 Actualizado
 
 ## 👤 Autor del proyecto
 
@@ -35,3 +35,16 @@ Se implementa una clase abstracta base `Pedido` de la cual heredan tres tipos de
 └── util/         # Clase de utilidad para formateo de consola
     └── UtilPedido.java       # Métodos auxiliares para la salida de consola
 ```
+
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
+
+
+Clona el repositorio desde GitHub: 
+
+```
+https://github.com/Giuseppe-Sabaini/SpeedFast-Trabajo-Semana-1.git
+```
+2. Abre el proyecto en IntelliJ IDEA.
+3. Ejecuta el archivo Main.java desde el paquete app
+
+Repositorio GitHub: https://github.com/Giuseppe-Sabaini/SpeedFast-Trabajo-Semana-1.git Fecha de Entrega: 24/8/26 23:59 
